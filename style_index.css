@@ -1,0 +1,29 @@
+img{
+	width: 400px; height:300 
+}
+body{
+	background-color: rgb(74, 77, 81);
+}
+#feature{
+	color: yellow;
+}
+a{
+	color: red;
+	text-decoration: none;
+}
+a:hover{
+	color: green;
+	text-decoration: underline;
+}
+
+ul{
+	list-style-type: square;
+	color: white;
+}
+h1,h3{
+	color: rgb(125, 182, 216);
+	font-family: Century Gothic;
+}
+p{color: white;}
+ol{list-style-type: decimal;
+color: white;}
